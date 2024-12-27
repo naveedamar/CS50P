@@ -1,2 +1,2 @@
-# CS50S
-CS50'S Introduction to Programming with Python
+# CS50P
+CS50'P Introduction to Programming with Python
