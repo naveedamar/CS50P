@@ -1,4 +1,4 @@
-<h1 align="center"># 👽 UFO Sightings Analyzer 👽<h1>
+# 👽 UFO Sightings Analyzer 👽
 Final project for Harvard's CS50's Introduction to Programming with Python, leveraging concepts from both CS50 and the University of Pennsylvania's Java and Python Specialization on Coursera.
 
 ## Video Demo:
