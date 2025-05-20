@@ -1,5 +1,5 @@
-# 👽 UFO Sightings Analyzer 👽
-A final project for Harvard's CS50's Introduction to Programming with Python, leveraging concepts from both CS50 and the University of Pennsylvania's Java and Python Specialization on Coursera.
+<h1 align="center"># 👽 UFO Sightings Analyzer 👽<h1>
+Final project for Harvard's CS50's Introduction to Programming with Python, leveraging concepts from both CS50 and the University of Pennsylvania's Java and Python Specialization on Coursera.
 
 ## Video Demo:
 
@@ -63,7 +63,7 @@ When you run main.py, you'll be presented with a menu similar to this:
     4. Count Sightings by Shape\
     5. View Top N Regions\
     6. Count Sightings by Region\
-    7. Exit\
+    7. Exit 
    
    Enter your choice (1-7):
 
