@@ -12,11 +12,10 @@ Throughout the course, students explore topics such as:
 
 - Functions, Variables, and Conditionals  
 - Loops and Data Structures (lists, dictionaries, sets, tuples)  
-- File I/O  
+- File I/O
 - Regular Expressions  
 - Object-Oriented Programming  
-- Unit Testing and Error Handling  
-- Web Programming Basics  
+- Unit Testing and Error Handling    
 
 The course includes interactive labs, problem sets, and a final project to apply the concepts learned.
 
@@ -26,4 +25,4 @@ Due to Harvard's **strict academic honesty policy**, I am **not allowed to share
 
 ## 💡 What’s Included in This Repository?
 
-While you won’t find any direct solutions here, I’ve included a few **original Python projects** I created along the way to reinforce my learning. These include small utilities, practice scripts, and experimental programs that demonstrate concepts covered in the course.
+While you won’t find any direct solutions here, I’ve included a few **original Python projects** I created along the way to reinforce my learning. These include my final project to this course named UFO Sightings Analyzer Version 1.1 along wtih small utilities, practice scripts, and experimental programs that demonstrate concepts covered in the course.
