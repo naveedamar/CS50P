@@ -9,11 +9,6 @@ A final project for Harvard's CS50's Introduction to Programming with Python, le
 
 **UFO Sightings Analyzer** is a user-friendly Python command-line interface (CLI) designed to explore and analyze a rich dataset of over **80,000** reported UFO sightings primarily from the **National UFO Reporting Center (NUFORC)** from around the globe. Users can explore top UFO shapes, durations, and sighting locations (city, state, country), as well as search and count sightings based on these criteria. The project handles real-world CSV data, offering a user-friendly interface to investigate the mysteries of reported UFO encounters.
 
-**CSV Source Citing**
-Name of the dataset : ufo-reports
-Dataset creator's name : Sigmond Axel
-Year & Month of dataset creation : 2014, July 9th
-URL of the dataset : [https://github.com/planetsig/ufo-reports]
 
 **Dive into decades of mysterious encounters and uncover patterns in the unknown.**
 
@@ -25,6 +20,11 @@ With **UFO Sightings Analyzer**, you can interactively:
 - Examine detailed reports, including timestamps, geographical coordinates, and reported shapes.
 
 ### 🗂️ Dataset
+### CSV Source Citing
+Name of the dataset : ufo-reports \
+Dataset creator's name : Sigmond Axel \
+Year & Month of dataset creation : 2014, July 9th\
+URL of the dataset : [https://github.com/planetsig/ufo-reports]\
 
 The core of this project is the comprehensive dataset stored in: `data/ufo_sightings.csv`.
 
@@ -47,8 +47,8 @@ This fascinating dataset contains over 80,000 records of UFO sightings spanning 
 ### 💻 How to Use
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/ufo-analyzer.git](https://github.com/yourusername/ufo-analyzer.git)
-   cd ufo-analyzer
+   git clone https://github.com/naveedamar/Harvard-CS50S-Introduction-to-Programming-with-Python/tree/main/UFO%20Sightings%20Analyzer%20Version%201.1
+   cd UFO Sightings Analyzer Version 1.1
 
 2. Ensure your dataset is located at data/ufo_sightings.csv.
 
