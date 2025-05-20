@@ -46,15 +46,11 @@ This fascinating dataset contains over 80,000 records of UFO sightings spanning 
 
 ### 💻 How to Use
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/naveedamar/Harvard-CS50S-Introduction-to-Programming-with-Python/tree/main/UFO%20Sightings%20Analyzer%20Version%201.1
-   cd UFO Sightings Analyzer Version 1.1
-
+   
 2. Ensure your dataset is located at data/ufo_sightings.csv.
 
 3. Run the application:
-    ```bash
-    python main.py
+    
 
 4. Explore the Menu: Follow the interactive on-screen menu to begin your analysis of the UFO sightings data!
 
@@ -62,14 +58,14 @@ This fascinating dataset contains over 80,000 records of UFO sightings spanning 
 
 When you run main.py, you'll be presented with a menu similar to this:
 
-   --- UFO Sightings Analyzer ---
-    1. View Top N Durations
-    2. Count Sightings by Duration
-    3. View Top N Shapes
-    4. Count Sightings by Shape
-    5. View Top N Regions
-    6. Count Sightings by Region
-    7. Exit
+   \--- UFO Sightings Analyzer ---\
+    1. View Top N Durations\
+    2. Count Sightings by Duration\
+    3. View Top N Shapes\
+    4. Count Sightings by Shape\
+    5. View Top N Regions\
+    6. Count Sightings by Region\
+    7. Exit\
 
     Enter your choice (1-7):
 
