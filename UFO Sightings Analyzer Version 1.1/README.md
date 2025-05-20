@@ -20,13 +20,12 @@ With **UFO Sightings Analyzer**, you can interactively:
 - Examine detailed reports, including timestamps, geographical coordinates, and reported shapes.
 
 ### 🗂️ Dataset
+The core of this project is the comprehensive dataset stored in: `data/ufo_sightings.csv`. \
 ### CSV Source Citing
 Name of the dataset : ufo-reports \
 Dataset creator's name : Sigmond Axel \
 Year & Month of dataset creation : 2014, July 9th\
-URL of the dataset : [https://github.com/planetsig/ufo-reports]\
-
-The core of this project is the comprehensive dataset stored in: `data/ufo_sightings.csv`.
+URL of the dataset : [https://github.com/planetsig/ufo-reports]
 
 This fascinating dataset contains over 80,000 records of UFO sightings spanning the last century. Each entry provides valuable information, including:
 
@@ -49,9 +48,8 @@ This fascinating dataset contains over 80,000 records of UFO sightings spanning 
    
 2. Ensure your dataset is located at data/ufo_sightings.csv.
 
-3. Run the application:
+3. Run the application
     
-
 4. Explore the Menu: Follow the interactive on-screen menu to begin your analysis of the UFO sightings data!
 
 ### 🔍 Example Usage
@@ -66,15 +64,14 @@ When you run main.py, you'll be presented with a menu similar to this:
     5. View Top N Regions\
     6. Count Sightings by Region\
     7. Exit\
-
-    Enter your choice (1-7):
+   \Enter your choice (1-7):
 
 ### 📌 Features:
-    Intuitive CLI: A simple and user-friendly command-line interface for easy interaction.
-    Real-world Data Handling: Efficiently processes a large CSV dataset.
-    Flexible Searches: Conduct case-insensitive searches for shapes and regions.
-    Organized Code: Implemented with modular and reusable Python functions for clarity and maintainability.
-    Comprehensive Analysis: Offers functionalities to explore top trends and specific occurrences in the data.
+ 1. Intuitive CLI: A simple and user-friendly command-line interface for easy interaction.
+ 2. Real-world Data Handling: Efficiently processes a large CSV dataset.
+ 3. Flexible Searches: Conduct case-insensitive searches for shapes and regions.
+ 4. Organized Code: Implemented with modular and reusable Python functions for clarity and maintainability.
+ 5. Comprehensive Analysis: Offers functionalities to explore top trends and specific occurrences in the data.
 
 ## Functions Explanation:
 
