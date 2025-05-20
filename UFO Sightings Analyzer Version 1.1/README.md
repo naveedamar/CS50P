@@ -20,7 +20,7 @@ With **UFO Sightings Analyzer**, you can interactively:
 - Examine detailed reports, including timestamps, geographical coordinates, and reported shapes.
 
 ### 🗂️ Dataset
-The core of this project is the comprehensive dataset stored in: `data/ufo_sightings.csv`. \
+The core of this project is the comprehensive dataset stored in: `data/ufo_sightings.csv`. 
 ### CSV Source Citing
 Name of the dataset : ufo-reports \
 Dataset creator's name : Sigmond Axel \
@@ -64,7 +64,8 @@ When you run main.py, you'll be presented with a menu similar to this:
     5. View Top N Regions\
     6. Count Sightings by Region\
     7. Exit\
-   \Enter your choice (1-7):
+   
+   Enter your choice (1-7):
 
 ### 📌 Features:
  1. Intuitive CLI: A simple and user-friendly command-line interface for easy interaction.
